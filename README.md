@@ -22,7 +22,6 @@
     - [Orders](#orders)
     - [Approvals](#approvals)
   - [Security Features](#security-features)
-  - [Contributing](#contributing)
 
 ## Features
 
@@ -218,11 +217,3 @@ For complete API documentation, visit `/api/docs` when the application is runnin
 - **Helmet**: HTTP security headers
 - **Input Validation**: Request body validation with Joi
 - **Database Prepared Statements**: Protection against SQL injection via Knex.js
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
